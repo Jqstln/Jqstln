@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JustinnnDev</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Iockus](https://iockussupport.com/)
+- 🔭 I’m currently working on Celendi.
 
 - 🌱 I’m currently learning **CSS**
 
