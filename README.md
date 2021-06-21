@@ -3,7 +3,7 @@
 
 </p>
 <div size='20px'>Hey, thanks for taking a look at my github profile. My name is Justin aka JustinnnDev (all my socials). I am a learning developer who likes all kinds of programming languages, well almost everything then 🤣.<br>
-At the moment I am programming a custom WHMCS Theme (for a hosting, which is mine). I will definitely keep you up-to-date with this if you wish. Among other things, I am also working on a minecraft server (it is a project, but not that important now).
+At the moment I am programming a custom WHMCS Theme (for a hosting, which is mine). I will definitely keep you up-to-date with this if you wish. Among other things, I am also working on a minecraft server (it is a project, coming soon).
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.twitter.com/justinnndev'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
