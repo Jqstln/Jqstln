@@ -24,7 +24,7 @@ At the moment I am programming a custom WHMCS Theme (for a hosting, which is min
 </p>
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on VentureCloud & EurophiaMC
+- 🔭 I’m currently working on VentureCloud(Soon) & ElementalNetwork & Celendi
 
 - 🌱 I’m currently learning PHP & Java 
 
