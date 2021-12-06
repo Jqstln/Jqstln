@@ -15,15 +15,11 @@ Discord: Justinnn#0001
  * 💻 ExpressJS
  * 💻 JavaScript
  * 💻 Java
-
-*** 
-
+***
 🌱 I’m currently learning <b>ExpressJS</b><br>
 👯 I’m looking to collaborate on <b>projects</b><br>
 😄 Pronouns: he/him<br>
 ⚡ Fun fact: i'm funny<br><br>
-
 ***
-
 ![Jqstln's Stats](https://github-readme-stats.vercel.app/api?username=Jqstln&show_icons=true&count_private=true&theme=gruvbox)
 ![Jqstln's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jqstln&layout=compact&theme=gruvbox)
