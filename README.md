@@ -6,11 +6,14 @@ bot that goes public in some weeks.
 
 ## Skills and Experience
  * #️⃣ HTML
- * 📅 MongoDB
+ * #️⃣ CSS
+ * 📅 MySQL
+ * 📅 PHP
+ * 💻 ExpressJS
  * 💻 JavaScript
  * 💻 Java
 
-🌱 I’m currently learning <b>CSS</b><br>
+🌱 I’m currently learning <b>ExpressJS</b><br>
 👯 I’m looking to collaborate on <b>projects</b><br>
 😄 Pronouns: he/him<br>
 ⚡ Fun fact: i'm funny<br><br>
