@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/570708109413187621)](https://discord.com/users/570708109413187621)
+<img src="coding.png">
 
 I'm Justin, a 17 year old who loves developing (still learning), and doing sometimes
 some cool projects. Currently I'm into a course about web development and making a discord
