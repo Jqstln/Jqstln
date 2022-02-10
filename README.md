@@ -12,7 +12,6 @@ Discord: Justinnn#0001
  * #️⃣ CSS
  * 📅 MySQL
  * 📅 PHP
- * 💻 ExpressJS
  * 💻 JavaScript
  * 💻 Java
 ***
