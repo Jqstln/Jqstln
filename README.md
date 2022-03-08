@@ -1,4 +1,4 @@
-<img src="coding.png">
+![coding](coding.png)
 
 My name is Justin, I am a 17 year old developer and have fun projects. At the moment I'm working on my own discord bot called [Celendi](https://github.com/Celendi), and among others [Astrality](https://github.com/AstralityMC). If you want me for a project, you can contact me on my twitter or my discord. 
 
@@ -17,8 +17,7 @@ Discord: Justinnn#0001
 ***
 🌱 I’m currently learning <b>ExpressJS</b><br>
 👯 I’m looking to collaborate on <b>projects</b><br>
-😄 Pronouns: he/him<br>
-⚡ Fun fact: i'm funny<br><br>
+⚡ Fun fact: I'm not really funny<br><br>
 ***
 ![Jqstln's Stats](https://github-readme-stats.vercel.app/api?username=Jqstln&show_icons=true&count_private=true&theme=gruvbox)
 ![Jqstln's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jqstln&layout=compact&theme=gruvbox)
