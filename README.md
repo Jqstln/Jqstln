@@ -17,7 +17,7 @@ Discord: Justinnn#0001
 ***
 🌱 I’m currently learning <b>ExpressJS</b><br>
 👯 I’m looking to collaborate on <b>projects</b><br>
-⚡ Fun fact: I'm not really funny<br><br>
+⚡ Fun fact: I'm someone that likes to code<br><br>
 ***
 ![Jqstln's Stats](https://github-readme-stats.vercel.app/api?username=Jqstln&show_icons=true&count_private=true&theme=gruvbox)
 ![Jqstln's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jqstln&layout=compact&theme=gruvbox)
