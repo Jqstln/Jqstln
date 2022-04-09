@@ -5,19 +5,16 @@ My name is Justin, I am a 17 year old developer and have fun projects. At the mo
 Discord: Justinnn#0001
 
 ## Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Jqstln/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jqstln)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCpPz4HF7Z3Ma8VA1TG1oJIw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg' alt='website' height='40'>](https://jqstln.xyz/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Jqstln)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jqstln)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/apBEjDWFjw)
 
 ## Skills and Experience
- * #️⃣ HTML
- * #️⃣ CSS
- * 📅 MySQL
- * 📅 PHP
- * 💻 JavaScript
- * 💻 Java
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,mysql,)](https://justinnn.dev/)
+
 ***
-🌱 I’m currently learning <b>ExpressJS</b><br>
-👯 I’m looking to collaborate on <b>projects</b><br>
-⚡ Fun fact: I'm someone that likes to code<br><br>
+🌱 I’m currently learning <b>graphic designing</b><br>
+⚡ Fun fact: I'm a gamer<br><br>
 ***
 ![Jqstln's Stats](https://github-readme-stats.vercel.app/api?username=Jqstln&show_icons=true&count_private=true&theme=gruvbox)
 ![Jqstln's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jqstln&layout=compact&theme=gruvbox)
