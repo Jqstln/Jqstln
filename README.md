@@ -1,11 +1,14 @@
 ![coding](coding.png)
 
-My name is Justin, I am a 17 year old developer and have fun projects. At the moment I'm working on my own discord bot called [Celendi](https://github.com/Celendi), and among others [Astrality](https://github.com/AstralityMC). If you want me for a project, you can contact me on my twitter or my discord. 
+My name is Justin, I am a 17 year old developer and have fun projects. At the moment I'm working on my own discord bot called [Celendi](https://github.com/Celendi), and among others [GrindMC](https://github.com/GrindMC). If you want me for a project, you can contact me on my twitter or my discord. 
 
 Discord: Justinnn#0001
 
+## The projects I've done.
+
+- [AtlanticMC](https://atlanticmc.nl/) - A dutch minecraft survival server, with serveral gamemodes but focused on survival.
+
 ## Socials
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Jqstln)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jqstln)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/apBEjDWFjw)
 
