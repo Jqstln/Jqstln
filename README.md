@@ -16,8 +16,5 @@ Discord: Justinnn#0001
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,mysql,)](https://justinnn.dev/)
 
 ***
-🌱 I’m currently learning <b>graphic designing</b><br>
-⚡ Fun fact: I'm a gamer<br><br>
-***
 ![Jqstln's Stats](https://github-readme-stats.vercel.app/api?username=Jqstln&show_icons=true&count_private=true&theme=gruvbox)
 ![Jqstln's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jqstln&layout=compact&theme=gruvbox)
