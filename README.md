@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Jqstln/Jqstln/main/coding.png" width="1000" height="250">
+![coding](coding.png)
 
 My name is Justin, I am a 17 year old developer and have fun projects. At the moment I'm working on my own discord bot called [Celendi](https://github.com/Celendi), and among others [GrindMC](https://github.com/GrindMC). If you want me for a project, you can contact me on my twitter or my discord. 
 
