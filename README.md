@@ -3,7 +3,6 @@
 My name is Justin. I am an 18 year old developer and I am working on some fun projects. At the moment I am working on my own Discord bot called [Celendi](https://github.com/Celendi) and with others on [GrindMC](https://github.com/GrindMC). If you want me for a project. You can contact me on my Twitter or Discord. 
 
 Discord: [Justinnn#0001](https://discordapp.com/users/570708109413187621)
-
 Twitter: [@Jqstln](https://twitter.com/Jqstln)
 
 ## The projects I have worked on.
