@@ -9,6 +9,7 @@ Twitter: [@Jqstln](https://twitter.com/Jqstln)
 
 - [Celendi](https://github.com/Celendi) - A multi-functional Discord bot designed to be the only bot you need in your server, containing a wide selection of commands from fun to moderation.
 - [AtlanticMC](https://atlanticmc.nl/) - A Dutch minecraft survival server with serveral gamemodes, but focused on survival.
+- [LeesDeDocs](https://ikleesgeendocs.nl/) - A dutch website that explains how to read the documentation.
 
 ## Socials
 [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jqstln)
