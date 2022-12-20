@@ -8,9 +8,12 @@ Twitter: [@Jqstln](https://twitter.com/Jqstln)
 ## The projects I have worked on.
 
 - [Celendi](https://github.com/Celendi) - A multi-functional Discord bot designed to be the only bot you need in your server, containing a wide selection of commands from fun to moderation.
+- [GrindMC](https://grindmc.net/) - A english minecraft server based on pvp gamemodes (KitPVP, Factions) -> WIP.
 - [AtlanticMC](https://atlanticmc.nl/) - A Dutch minecraft survival server with serveral gamemodes, but focused on survival.
-- [LeesDeDocs](https://ikleesgeendocs.nl/) - A dutch website that explains how to read the documentation.
-- [NoorderwijkRP](https://noorderwijkrp.nl/) - A dutch FiveM server that good roleplay and is always fun to play.
+- [IkLeesGeenDocs](https://ikleesgeendocs.nl/) - A Dutch website that explains how to read docs.
+- [LeesDeDocs](https://leesdedocs.nl/) - Yet another Dutch website that explains how to read docs.
+- [NoorderwijkRP](https://noorderwijkrp.nl/) - A dutch FiveM server that has good roleplay and is always fun to play.
+- [WoerdenRP](https://woerdenrp.nl/) - A dutch FiveM server that is focused on good roleplay and serious stuff
 
 ## Socials
 [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jqstln)
