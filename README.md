@@ -8,15 +8,15 @@ Twitter: [@Jqstln](https://twitter.com/Jqstln)
 ## All my projects I have worked on/working on.
 
 - Other Projects<br>
-  └ [Celendi](https://github.com/Celendi) - A multi-functional Discord bot designed to be the only bot you need in your server, containing a wide selection of commands from fun to moderation.<br>
-  └ [IkLeesGeenDocs](https://ikleesgeendocs.nl/) - A Dutch website that explains how to read docs.<br>
-  └ [LeesDeDocs](https://leesdedocs.nl/) - Yet another Dutch website that explains how to read docs.
+  - [Celendi](https://github.com/Celendi) - A multi-functional Discord bot designed to be the only bot you need in your server, containing a wide selection of commands from fun to moderation.<br>
+  - [IkLeesGeenDocs](https://ikleesgeendocs.nl/) - A Dutch website that explains how to read docs.<br>
+  - [LeesDeDocs](https://leesdedocs.nl/) - Yet another Dutch website that explains how to read docs.
 - Minecraft Projects<br>
-  └ [GrindMC](https://grindmc.net/) - A english minecraft server based on pvp gamemodes (KitPVP, Factions) -> WIP.<br>
-  └ [AtlanticMC](https://atlanticmc.nl/) - A Dutch minecraft survival server with serveral gamemodes, but focused on survival. (Closed Down)
+  - [GrindMC](https://grindmc.net/) - A english minecraft server based on pvp gamemodes (KitPVP, Factions) -> WIP.<br>
+  - [AtlanticMC](https://atlanticmc.nl/) - A Dutch minecraft survival server with serveral gamemodes, but focused on survival. (Closed Down)
 - FiveM Projects<br>
-  └ [NoorderwijkRP](https://noorderwijkrp.nl/) - A dutch FiveM server that has good roleplay and is always fun to play. (Closed Down)<br> 
-  └ [WoerdenRP](https://woerdenrp.nl/) - A dutch FiveM server that is focused on good roleplay and serious stuff (Closed Down)
+  - [NoorderwijkRP](https://noorderwijkrp.nl/) - A dutch FiveM server that has good roleplay and is always fun to play. (Closed Down)<br> 
+  - [WoerdenRP](https://woerdenrp.nl/) - A dutch FiveM server that is focused on good roleplay and serious stuff (Closed Down)
 
 ## Skills and experience
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,mysql,)](https://justinnn.dev/)
