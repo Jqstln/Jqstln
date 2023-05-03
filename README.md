@@ -12,7 +12,7 @@ Twitter: [@Jqstln](https://twitter.com/Jqstln)
 - [IkLeesGeenDocs](https://ikleesgeendocs.nl/) - Dutch website that teaches you how to read documentation.
 - [LeesDeDocs](https://leesdedocs.nl/) - Another Dutch website that explains how to read docs.
 - GrindMC - English Minecraft server with PvP game modes. (Closed)
-- [AtlanticMC](https://atlanticmc.nl/) - Dutch Minecraft server (Closed).
+- [AtlanticMC](https://atlanticmc.nl/) - Dutch Minecraft server (Sold).
 - NoorderwijkRP - Dutch FiveM server with good roleplay (Closed).
 - WoerdenRP - Dutch FiveM server with serious roleplay (Closed).
 
