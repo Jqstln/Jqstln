@@ -7,12 +7,11 @@ Twitter: [@Jqstln](https://twitter.com/Jqstln)
 
 ## My Projects
 
-- [Celendi](https://github.com/Celendi) - Discord bot with fun and moderation commands.
+- [Celendi](https://github.com/Celendi) - Discord bot with fun and moderation commands. (Currently offline)
+- [ARC8](https://arc8.fun) - Discord bot that has fun games and fun stuff.
 - [Devolvex](https://github.com/Devolvex) - A company I co-own that creates/develops websites and more for clients.
-- [IkLeesGeenDocs](https://ikleesgeendocs.nl/) - Dutch website that teaches you how to read documentation.
-- [LeesDeDocs](https://leesdedocs.nl/) - Another Dutch website that explains how to read docs.
-- GrindMC - English Minecraft server with PvP game modes. (Closed)
 - [AtlanticMC](https://atlanticmc.nl/) - Dutch Minecraft server (Sold).
+- [OaseMC](https://oasemc.nl) - Dutch Minecraft Server.
 - NoorderwijkRP - Dutch FiveM server with good roleplay (Closed).
 - WoerdenRP - Dutch FiveM server with serious roleplay (Closed).
 
