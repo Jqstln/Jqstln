@@ -6,7 +6,8 @@ Hello! I'm Justin, aged at 19 years, and currently an co-founder of [Devolvex](h
 
 - [Celendi](https://github.com/Celendi) - Discord bot with fun and moderation commands.
 - [ARC8](https://arc8.fun) - Discord bot that has fun games and fun stuff.
-- [Devolvex](https://github.com/Devolvex) - A company I co-own that creates/develops websites and more for clients.
+- [cutt.gg](https://cutt.gg) - A public link shortener for people to use.
+- [NCLE™ Group](https://ncle.nl/) - Innovative software & media; Excellence in audio, software, & music.
 
 Need help with your project? Let's work together! Contact me on [X account (previously twitter)](https://twitter.com/Jqstln).
 
