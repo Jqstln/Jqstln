@@ -15,14 +15,18 @@ jobs:
 
       - name: Fetch and update weather data
         run: |
-          TEMP=$(curl -s https://api.justinharing.nl/weather/Rotterdam | jq '.temperature')
-          DESC=$(curl -s https://api.justinharing.nl/weather/Rotterdam | jq '.description')
-          sed -i "s|Ask me about Dutch weather.*|Ask me about Dutch weather (currently $TEMP in Rotterdam with $DESC)|" README.md
+          WEATHER=$(curl -s https://api.justinharing.nl/weather/Rotterdam)
+          TEMP=$(echo "$WEATHER" | jq -r '.temperature' | tr '[:upper:]' '[:lower:]')
+          DESC=$(echo "$WEATHER" | jq -r '.description' | tr '[:upper:]' '[:lower:]')
+          sed -i "s|💬 Ask me about Dutch weather.*|💬 Ask me about Dutch weather (currently $TEMP in Rotterdam with $DESC)\n|" README.md
 
       - name: Commit and push changes
+        env:
+          GIT_AUTHOR_NAME: github-actions
+          GIT_AUTHOR_EMAIL: github-actions@github.com
+          GIT_COMMITTER_NAME: github-actions
+          GIT_COMMITTER_EMAIL: github-actions@github.com
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
           git add README.md
           git commit -m "Update weather data"
           git push
