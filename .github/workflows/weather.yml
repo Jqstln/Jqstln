@@ -18,7 +18,7 @@ jobs:
           WEATHER=$(curl -s https://api.justinharing.nl/weather/Rotterdam)
           TEMP=$(echo "$WEATHER" | jq -r '.temperature' | tr '[:upper:]' '[:lower:]')
           DESC=$(echo "$WEATHER" | jq -r '.description' | tr '[:upper:]' '[:lower:]')
-          sed -i "s|💬 Ask me about Dutch weather.*|💬 Ask me about Dutch weather (currently $TEMP in Rotterdam with $DESC)\n|" README.md
+          sed -i "s|💬 Ask me about Dutch weather.*|💬 Ask me about Dutch weather (currently $TEMP in Rotterdam with $DESC)|" README.md
 
       - name: Commit and push changes
         env:
