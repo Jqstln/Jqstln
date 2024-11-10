@@ -18,3 +18,11 @@ jobs:
           TEMP=$(curl -s https://api.justinharing.nl/weather/Rotterdam | jq '.temperature')
           DESC=$(curl -s https://api.justinharing.nl/weather/Rotterdam | jq '.description')
           sed -i "s|Ask me about Dutch weather.*|Ask me about Dutch weather (currently $TEMP in Rotterdam with $DESC)|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update weather data"
+          git push
