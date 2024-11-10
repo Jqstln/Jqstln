@@ -4,7 +4,6 @@ Hey there! I'm Justin, 20, co-founder of M1dnght Development, and always up for 
 
 🌱 Learning Laravel    
 💬 Ask me about Dutch weather (currently 11.1°c in Rotterdam with overcast clouds)  
-
 ⚡ Fun fact: I'm chaotic *and* funny!
 
 ## Projects I'm currently working on
