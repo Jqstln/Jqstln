@@ -1,6 +1,6 @@
 <img src="https://pub-1a64926e04a943d78552c786fa046711.r2.dev/P1600440.JPG" width="100%" height="450px">
 
-Hey there! I'm Justin, 20, co-founder of M1dnght Development, and always up for cool projects!
+Hey there! I'm Justin, 21, co-founder of M1dnght Development, and always up for cool projects!
 
 :seedling: Learning Laravel          
 :speech_balloon: Ask me about Dutch weather (avg. 11°C in Rotterdam, often overcast)<br>
@@ -11,6 +11,7 @@ Hey there! I'm Justin, 20, co-founder of M1dnght Development, and always up for 
 - [M1dnght Development](https://github.com/M1dnght-dev) - Building smart, community-driven projects on Discord.
 - [UnixMC](https://unixmc.com) - A story-rich Minecraft MMORPG with quests, towns, dungeons, and a fair, cosmetic-only shop.
 - [Celendi](https://celendi.me/) - Celendi is coming back soon—a vibey Discord bot with music, utility, games, and good times!
+- [SimpleCDN](https://github.com/Jqstln/SimpleCDN) - An easy-to-host CDN with user management and R2 stuff.
 
 Want to work on an project? Contact me through my mail [here](mailto:hello@justinnn.dev).
 
