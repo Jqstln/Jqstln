@@ -1,26 +1,58 @@
-<img src="https://pub-1a64926e04a943d78552c786fa046711.r2.dev/P1600440.JPG" width="100%" height="450px">
+<img src="https://pub-1a64926e04a943d78552c786fa046711.r2.dev/DJI_20250710_094632_23_pano.jpg" width="100%" height="450px">
+<h1 align="center">👾 Justin // @jqstln</h1>
+<p align="center">
+  <i>21 y/o • Co-founder of <a href="https://github.com/M1dnght-dev">M1dnght Development</a></i>
+</p>
 
-Hey there! I'm Justin, 21, co-founder of M1dnght Development, and always up for cool projects!
+---
 
-:seedling: Learning Laravel          
-:speech_balloon: Ask me about Dutch weather (avg. 11°C in Rotterdam, often overcast)<br>
-:zap: Fun fact: I'm chaotic *and* funny!
+### 🪐 About Me
+- 🌱 Currently diving into **Laravel**  
+- 💬 Ask me about Dutch weather (spoiler: 🌧 avg. 11°C in Rotterdam)  
+- ⚡ Fun fact: I’m both *chaotic* and *funny* — a dangerous combo.  
 
-## Projects I'm currently working on
+---
 
-- [M1dnght Development](https://github.com/M1dnght-dev) - Building smart, community-driven projects on Discord.
-- [UnixMC](https://unixmc.com) - A story-rich Minecraft MMORPG with quests, towns, dungeons, and a fair, cosmetic-only shop.
-- [Celendi](https://celendi.me/) - Celendi is coming back soon—a vibey Discord bot with music, utility, games, and good times!
-- [SimpleCDN](https://github.com/Jqstln/SimpleCDN) - An easy-to-host CDN with user management and R2 stuff.
+### 🚀 Current Projects
+🔹 [**M1dnght Development**](https://github.com/M1dnght-dev) → Smart, community-driven projects on Discord  
+🔹 [**OaseMC**](https://oasemc.nl) → Dutch Minecraft server with Skyblock, Survival & more  
+🔹 [**ARC8**](https://arc8.xyz/) → A Discord bot packed with fun games & challenges  
+🔹 [**ChargeBuddies**](https://chargebuddies.nl) → Rent, charge, return — powerbanks made simple  
 
-Want to work on an project? Contact me through my mail [here](mailto:hello@justinnn.dev).
+📩 Want to collaborate? [hello@justinnn.dev](mailto:hello@justinnn.dev)
 
-## Skills and experience
-I use a range of tools to code effectively. Here are the languages I know.
+---
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🧑‍💻 Tech Arsenal
+I code with a futuristic stack of languages, frameworks & tools:
 
-***
-![jqstln's Stats](https://github-readme-stats.vercel.app/api?username=jqstln&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
-![jqstln's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jqstln&theme=cobalt&hide_border=false)
-![jqstln's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jqstln&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+#### ⚡ Core Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-4488FF?style=for-the-badge&logo=pnpm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🌌 Frameworks & Frontend
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🛰 Backend & Infra
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 Stats & Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jqstln&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jqstln&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqstln&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
